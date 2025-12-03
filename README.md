@@ -51,3 +51,9 @@ Proyek ini berisi hasil *analisis data nilai siswa* serta refleksi pembelajaran 
 ### ✨ Penulis
 *Nama:* [Kafi Azami Ajuna]  
 *Kelas:* [XI RPL 1]  
+
+<img width="906" height="310" alt="Screenshot 2025-12-03 083328" src="https://github.com/user-attachments/assets/e97b8332-1a6a-41b8-ab84-78a214b92953" />
+<img width="517" height="332" alt="Screenshot 2025-12-03 083316" src="https://github.com/user-attachments/assets/39d4e617-1a16-4fe0-987a-17d1deace2cd" />
+<img width="873" height="734" alt="Screenshot 2025-12-03 083245" src="https://github.com/user-attachments/assets/5e3aedea-081c-4c04-baa2-1f23eda125df" />
+<img width="1155" height="828" alt="Screenshot 2025-12-03 083238" src="https://github.com/user-attachments/assets/796684b6-f09d-40af-81db-b92796b752c4" />
+
